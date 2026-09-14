@@ -1,4 +1,4 @@
-# small-ml-projects
+# Small Machine/Deep Learning Projects
 
 Consolidated repo hosting various short ML/AI projects.
 
